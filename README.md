@@ -1,4 +1,4 @@
-# heckathon-Skill-Validator
+# Hackathon-Skill-Validator
 
 ![image](https://github.com/user-attachments/assets/0fb4f139-e355-4302-b178-18cc95867b25)
 
